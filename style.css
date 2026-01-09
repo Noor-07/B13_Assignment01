@@ -87,7 +87,7 @@ body {
 .banner-section .banner-section-text p {
   line-height: 1.8;
 }
-.banner-section .banner-btn .btn1 {
+.btn1 {
   padding: 12px 16px;
   border-radius: 4px;
   background: rgba(70, 145, 101, 1);
@@ -97,7 +97,7 @@ body {
   font-size: 16px;
   font-weight: 600;
 }
-.banner-section .banner-btn .btn1:hover {
+.btn1:hover {
   color: rgba(70, 145, 101, 1);
   background: rgba(255, 255, 255, 1);
 }
@@ -212,4 +212,27 @@ body {
 }
 .solution-section-text ul li img {
   margin-right: 8px;
+}
+/* Ready To Think Section */
+.ready-to-think {
+  margin-bottom: 120px;
+}
+.ready-to-think-parent {
+  text-align: center;
+
+  padding: 80px 40px;
+  border-radius: 12px;
+  background: rgba(247, 246, 242, 1);
+}
+.ready-to-think-parent h2 {
+  color: rgba(0, 25, 49, 1);
+  font-size: 40px;
+  font-weight: 700;
+}
+.ready-to-think-parent p {
+  color: rgba(98, 115, 130, 1);
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 16px;
+  margin-bottom: 24px;
 }
