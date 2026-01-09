@@ -65,6 +65,10 @@ body {
   padding-left: 6px;
   cursor: pointer;
 }
+.banner-section .early-access-btn:hover {
+  background-color: rgba(70, 145, 101, 1);
+  color: rgba(255, 255, 255, 1);
+}
 .early-access-btn i {
   margin-right: 6px;
 }
